@@ -43,7 +43,6 @@
   * p45 
   * p47 <input>中的其他属性:<name>定义input元素的名称,<value>规定input元素的值,<check>规定此input元素首次加载时应当被选中,<maxlength>规定输入字段中的字符的最大长度.
   * p48<input>表单元素使用场景:<value>属性="值".<name>属性后面的值,是自定义的.<checked>属性:表示默认选中转态.用于单选按钮和复选按钮.<type>可以让input表单元设置不同的形态
-  * p49 
   * p51 <label>标签:用于绑定一个表单元素,<label>标签的for属性应当与相关元素的ID属性相同.<label标签为input元素定义标注(标签)>
   * P52 <select>标签控件定义下拉列表,中至少包含一对<option>
   * p52 <textarea>用于定义多行文本输入的控件,特大号的文本框.cols=每行中的字符数,rows=显示的行数
